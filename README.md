@@ -118,4 +118,3 @@
 ## Карта развития
 1. [Fullstack development](https://github.com/fullstack-development/developers-roadmap/tree/master/frontend)
 2. [Javascript ninja](https://docs.google.com/spreadsheets/d/e/2PACX-1vRwSn4qxbYHSdQ428OkpArZc4Q22D8dmbzDcRXt-UzkZ1sZfGLoQmm1w-N0Rx_voKLx4i7R_k7cnQgV/pubhtml?urp=gmail_link)
-3. [EPAM](https://docs.google.com/spreadsheets/d/1ZufzOqa-RU6aSMU72XXtuJY7z-XnYiMJ01jhyYfEQGQ/edit?usp=sharing)
