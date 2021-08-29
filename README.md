@@ -78,7 +78,7 @@
 8. [Проблемы микрофронтендов](https://medium.com/swlh/problems-with-micro-frontends-8a8fc32a7d58)
 
 ## UI
-1. [Конференция - 1 неделя по UI](https://coursehunter.net/course/podlodka-ios-crew-sezon-2-ui-i-10h-inzhener)
+1. [Конференция - 1 неделя. UI](https://coursehunter.net/course/podlodka-ios-crew-sezon-2-ui-i-10h-inzhener)
 2. [Видео - GUI Challenge](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
 3. [Сайт - GUI Challenge](https://piccalil.li/category/front-end-challenges-club/)
 4. [UI библиотеки](https://vkcom.github.io/VKUI/#/Helpers)
@@ -105,7 +105,7 @@
 3. [Docker + ansible](https://www.udemy.com/course/docker-ansible/)
 
 ## Soft skills
-1. [10х инженер](https://coursehunter.net/course/podlodka-ios-crew-sezon-2-ui-i-10h-inzhener)
+1. [Конференция - 2 неделя. 10х инженер](https://coursehunter.net/course/podlodka-ios-crew-sezon-2-ui-i-10h-inzhener)
 
 ## Ресурсы для изучения
 1. [Coursehunter](https://coursehunter.net/)
