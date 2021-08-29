@@ -48,7 +48,7 @@
 
 ## Web apis
 1. [Web workers api](https://www.youtube.com/watch?v=X57mh8tKkgE&t=2578s)
-2. [Background fetch api](https://github.com/WICG/background-fetch)
+2. [Background fetch api](https://www.youtube.com/watch?v=hUS24TDo7-c)
 
 ## Тестирование
 1. [Курс - автоматическое тестирование](https://ru.hexlet.io/courses/js-testing)
