@@ -1,4 +1,3 @@
-***
 Платную информацию можно найти слитую на складчинах / торрентах
 
 ## Вёрстка
@@ -48,7 +47,7 @@
 
 ## Web apis
 1. [Web workers api](https://www.youtube.com/watch?v=X57mh8tKkgE&t=2578s)
-2. [Background fetch api](https://www.youtube.com/watch?v=hUS24TDo7-c)
+2. [Background fetch api](https://github.com/WICG/background-fetch)
 
 ## Тестирование
 1. [Курс - автоматическое тестирование](https://ru.hexlet.io/courses/js-testing)
@@ -62,14 +61,11 @@
 4. [Книга - веб-компоненты в действии](https://www.amazon.com/Web-Components-Action-Ben-Farrell/dp/1617295779/ref=sr_1_3?crid=2HCYRDZ6HWQCG&dchild=1&keywords=web+components&qid=1629629372&sprefix=webcomponents%2Caps%2C286&sr=8-3)
 5. [Курс - веб-компоненты и stencil.js](https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements/)
 6. [Курс - вёрстка компонентов](https://learn.javascript.ru/courses/htmlcss)
-7. [Видео - GUI Challenge](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
-8. [Сайт - GUI Challenge](https://piccalil.li/category/front-end-challenges-club/)
-9. [Сайт - кейсы DOM](https://htmldom.dev/)
-10. [Сайт - кейсы CSS](https://csslayout.io/)
-11. [UI библиотеки](https://vkcom.github.io/VKUI/#/Helpers)
-12. [Шаблоны themeforest](https://codecanyon.net/item/whendatepicker/22418308)
-13. [Сайт - примеры веб-компонентов](https://www.webcomponents.org/)
-14. [Сайт - 55 примеров реализаций веб-компонентов](https://webcomponents.dev/new/)
+7. [Сайт - кейсы DOM](https://htmldom.dev/)
+8. [Сайт - кейсы CSS](https://csslayout.io/)
+9. [Шаблоны themeforest](https://codecanyon.net/item/whendatepicker/22418308)
+10. [Сайт - примеры веб-компонентов](https://www.webcomponents.org/)
+11. [Сайт - 55 примеров реализаций веб-компонентов](https://webcomponents.dev/new/)
 
 ## Микрофронтенды
 1. [Сайт - основополагающая идея](https://micro-frontends.org/)
@@ -80,6 +76,12 @@
 6. [Доклад - микрофронтенды и виджеты в 2021 году](https://www.youtube.com/watch?v=RcWqY4kcjDY)
 7. [Курс - микрофронтенды с webpack module federation](https://www.udemy.com/course/microfrontend-course/)
 8. [Проблемы микрофронтендов](https://medium.com/swlh/problems-with-micro-frontends-8a8fc32a7d58)
+
+## UI
+1. [Конференция - 1 неделя по UI](https://coursehunter.net/course/podlodka-ios-crew-sezon-2-ui-i-10h-inzhener)
+2. [Видео - GUI Challenge](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
+3. [Сайт - GUI Challenge](https://piccalil.li/category/front-end-challenges-club/)
+4. [UI библиотеки](https://vkcom.github.io/VKUI/#/Helpers)
 
 ## System Design
 1. [Ютуб канал Frontend Engineer - все видео по system design](https://www.youtube.com/c/FrontEndEngineer/videos)
@@ -101,6 +103,17 @@
 1. [Курс - CI/CD для javascript разработчика](https://javascript.ninja/workshops/ci-cd)
 2. [Prometheus + Grafana](https://slurm.io/prometheus)
 3. [Docker + ansible](https://www.udemy.com/course/docker-ansible/)
+
+## Soft skills
+1. [10х инженер](https://coursehunter.net/course/podlodka-ios-crew-sezon-2-ui-i-10h-inzhener)
+
+## Ресурсы для изучения
+1. [Coursehunter](https://coursehunter.net/)
+2. [Hexlet]
+3. [Stepik](https://welcome.stepik.org/ru)
+4. [Coursera](https://www.coursera.org/)
+5. [Udemy](https://www.udemy.com/)
+6. [Computer Science Center](https://compscicenter.ru/)
 
 ## Карта развития
 1. [Fullstack development](https://github.com/fullstack-development/developers-roadmap/tree/master/frontend)
